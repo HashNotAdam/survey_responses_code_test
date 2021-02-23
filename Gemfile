@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
+gem "active_interaction", "~> 4.0"
+
 group :development do
   gem "rubocop", require: false
   gem "rubocop-performance", require: false
