@@ -59,6 +59,9 @@ Naming/MethodParameterName:
 RSpec/BeforeAfterAll:
   Enabled: false
 
+RSpec/ExampleLength:
+  Enabled: false
+
 RSpec/LetSetup:
   Enabled: false
 
